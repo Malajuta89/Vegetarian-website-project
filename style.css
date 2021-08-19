@@ -1,0 +1,73 @@
+
+
+
+
+h1 {
+    color:black;
+    
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color: black;
+}
+
+h4 {
+    color: black;
+}
+
+#navbar{
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    background-color: cornsilk;
+}
+
+
+.large{
+    font-size: 30px;
+    background-color: chocolate;
+}
+
+.blue{
+    background-color: chocolate;
+    font-size: 30px;
+}
+
+.juta{
+    font-style: oblique;
+}
+
+.smallpic {
+    max-width: 40%;
+}
+
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    }
+
+.smallpic5 {
+    max-width: 30%;
+}
+
+
+
+.right {
+    float: initial;
+}
+
+
+
+
+.small3 {
+    max-width: 30%;
+}
